@@ -344,5 +344,6 @@
   "NO_ITEMS_SHOP_SEARCH": "We don't have any items that match that criteria.",
   "NO_ITEMS_TO_SORT": "You don't have any items to sort!",
   "SORTING_INV_IN_PROGRESS": "Sorting inventory...",
-  "SORTING_INV_COMPLETE": "Your inventory list has been reordered!"
+  "SORTING_INV_COMPLETE": "Your inventory list has been reordered!",
+  "QUEST_COMPLETE": "You completed your quest, `{0}`, and got: `{1}`."
 }
