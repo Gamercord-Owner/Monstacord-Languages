@@ -247,7 +247,7 @@
   "SPAWN_DESPAWNED": "Sorry! {0} has despawned.",
   "SPAWN_BROKE_FREE": "You threw a {0} at {1}, but it broke free! Keep trying trainer!",
   "SPAWN_RAN_AWAY": "You threw a {0}, but {1} has broken free and ran away.",
-  "CAUGHT_SPAWN": "Congrats! You caught a {0} with a {1}!",
+  "CAUGHT_SPAWN": "Congrats! You caught a {0} with a {1} and gained 25 Trainer XP!",
   "MY_PROFILE": "{0}'s Profile",
   "MY_INVENTORY": "{0}'s Inventory",
   "XP_BOOST_ACTIVE_FOR": "XP Boost Active For:",
@@ -344,6 +344,6 @@
   "NO_ITEMS_SHOP_SEARCH": "We don't have any items that match that criteria.",
   "NO_ITEMS_TO_SORT": "You don't have any items to sort!",
   "SORTING_INV_IN_PROGRESS": "Sorting inventory...",
-  "SORTING_INV_COMPLETE": "Your inventory list has been reordered!",
+  "SORTING_INV_COMPLETE": "Your inventory list has been reordered!"
   "QUEST_COMPLETE": "You completed your quest, `{0}`, and got: `{1}`."
 }
